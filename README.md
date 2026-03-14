@@ -3,6 +3,6 @@
 This repository is dedicated for the DS 14357 Special Topics 1 in Data Science and AI:  Operational AI Systems: DevOps, DataOps \& MLOps course
 
 
-
+This line was added remotely for Task 10.
 This is psut. 
 
